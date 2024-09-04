@@ -1,4 +1,4 @@
-# Real Estate Insights: Housing Price Analysis
+# Housing Price Evaluation: Insights into the Real Estate Market
 
 ## Introduction
 **Real Estate Insights: Housing Price Analysis** is a data science project that focuses on analyzing and predicting housing prices. The project covers the entire data science pipeline, including data gathering, preprocessing, exploratory data analysis (EDA), and model building. We utilize machine learning models like the Random Forest Regressor and Support Vector Machine (SVM) to develop predictive models. Principal Component Analysis (PCA) is applied for feature selection, followed by statistical analyses of the most significant features.
